@@ -1,7 +1,7 @@
 # Credit Card Services & Customer Analysis Portfolio
 
 ## 📌 Executive Summary
-This project analyzes credit card usage and customer churn risk to optimize revenue strategies. By simulating a real-world Business Analyst workflow, we integrated **SQL** for data extraction, **Python/Pandas** for advanced analytics, and **scikit-learn** for predictive modeling.
+This project analyzes credit card usage and customer churn risk to optimize revenue strategy. By simulating a real-world Business Analyst workflow, we integrated **SQL** for data extraction, **Python/Pandas** for advanced analytics, and **scikit-learn** for predictive modeling.
 
 **Key Recommendations:**
 1.  **Retention Strategy:** High-income Graduate customers show a higher propensity for churn despite generating significant revenue. Targeted loyalty programs are recommended.
